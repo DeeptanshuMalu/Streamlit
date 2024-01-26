@@ -1,4 +1,4 @@
-opencv-python
+opencv_python
 os-sys
 numpy
 tensorflow
