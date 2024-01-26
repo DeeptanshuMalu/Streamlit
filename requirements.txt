@@ -1,6 +1,6 @@
-cv2
-os
+opencv-python
+os-sys
 numpy
 tensorflow
 streamlit
-PIL
+pillow
